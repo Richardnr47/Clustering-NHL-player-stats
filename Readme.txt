@@ -1,3 +1,8 @@
+Question to answer:
+Is it possible to cluster and get some insights about NHL hockey players by using statistics from games and information as height/weight?
+
+The dataset contains multiple csv-files, which become to large to upload, but it is possible to download it here:
+https://www.kaggle.com/datasets/martinellis/nhl-game-data
 
 I have choosen to use the K-means algorithm to find clusters in the data.
 
